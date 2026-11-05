@@ -103,3 +103,5 @@ The member opens the page from their own account; the helper's read test passes;
 | 2026-11-01 | Lucid pass: Lucide icons, the route drawn in Mermaid; links to SOP-OPS-003 (the tripwires) and SOP-GOV-002 (teams, base permission none); new readers start at SOP-COM-001 | Alfred |
 | 2026-10-31 | Filled in for The Holy Earth Foundation: the real addresses, the lab-desk and public sync paths, the procedures' public twin, the state of the day | Alfred |
 | 2026-11-01 | THEF: the lucid pass merged in; the route drawn for the foundation's own repositories; the state box re-read (rooms and twin live, Pages built, deletion-only rulesets, base permission No permission, deploy keys still to come) | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

@@ -250,3 +250,5 @@ The lane's tree contains exactly the allowlisted paths plus its reserved files; 
 | 2026-11-01 | Drafted: the rule (a public lane never publishes a file a machine or a person has not read), the allowlist files, the reading room's mechanics, icons carried by the sync; the tripwire section included whole from `OPS/_fragments/tripwire.md` (the tripwire package's own text) | Alfred |
 | 2026-11-01 | Adopted for The Holy Earth Foundation from the shared template: amber badges and icons, the foundation's login filled in where a page names a real address | Alfred |
 | 2026-11-02 | *Rotating a deploy key*: generate, add, set the secret, remove the old, verify; the private half is never printed | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

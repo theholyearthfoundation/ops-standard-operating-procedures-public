@@ -124,3 +124,5 @@ Both members are owners, so the switch to `none` changed nothing for them; it ma
 |---|---|---|
 | 2026-11-01 | Drafted: the tools one by one, access by teams, base permission none and why (the "You should know" heads-up) | Alfred |
 | 2026-11-01 | Adopted for The Holy Earth Foundation from the shared template: amber badges and icons, the foundation's login filled in where a page names a real address | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

@@ -119,3 +119,5 @@ A **site** repository goes one step further: a workflow (`.github/workflows/lane
 | 2026-10-31 | "Two things called preview": the `preview` branch versus the publish-preview lanes (`lanes.yml`, deploy keys, `LANES_ENABLED`), the admin panel and Formspree, a diagram and a side-by-side table | Alfred |
 | 2026-11-01 | Lucid pass: Lucide icons on every section, the road drawn in Mermaid (on GitHub and in the PDF), SOP-OPS-003 linked for the twin's rule | Alfred |
 | 2026-11-01 | Adopted for The Holy Earth Foundation from the shared template: amber badges and icons, the foundation's login filled in where a page names a real address | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->
